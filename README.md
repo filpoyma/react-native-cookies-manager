@@ -2,23 +2,17 @@
 
 Cookie Manager for React Native
 
-<a href="https://discord.gg/CJHKVeW6sp">
-<img src="https://img.shields.io/discord/764994995098615828?label=Discord&logo=Discord&style=for-the-badge"
-            alt="chat on Discord"></a>
-
-This module was ported from [joeferraro/react-native-cookies](https://github.com/joeferraro/react-native-cookies). This would not exist without the work of the original author, [Joe Ferraro](https://github.com/joeferraro).
+This module was ported from [react-native-cookies/cookies](https://github.com/react-native-cookies/cookies). This would not exist without the work of the original author, [Joe Ferraro](https://github.com/joeferraro).
 
 ## Important notices & Breaking Changes
-- **v6.2.1**: Package name updated to `react-native-cookies-manager`.
-- **v6.0.0**: Package name updated to `@react-native-cookies/cookies`.
-- **v5.0.0**: Peer Dependency of >= React Native 0.60.2
-- **v4.0.0**: Android SDK version bumpted to 21
-- **v3.0.0**: Remove React Native Core dependencies, CookieManager.set() support for Android
-- **v2.0.0**: Package name updated to `@react-native-community/cookies`.
+- **v6.2.1**: 
+  - Package name updated to `react-native-cookies-manager`.
+  - Replaced `jcenter()` with `mavenCentral()` (jcenter was shut down in 2021)
+  - Updated Gradle plugin from 3.5.3 to 8.1.0
+  - Updated `compileSdkVersion` from 29 to 34
+  - Updated `targetSdkVersion` from 29 to 34
+  - Updated `buildToolsVersion` to 34.0.0
 
-## Maintainers
-
-- [Jason Safaiyeh](https://github.com/safaiyeh) ([Twitter @safaiyeh](https://twitter.com/safaiyeh)) from [🪄 Magic Eden](https://magiceden.io)
 
 ## Platforms Supported
 
