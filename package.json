@@ -4,8 +4,8 @@
   "description": "Cookie Manager for React Native",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-cookies/cookies.git",
-    "baseUrl": "https://github.com/react-native-cookies/cookies"
+    "url": "git+https://https://github.com/filpoyma/react-native-cookies-manager.git",
+    "baseUrl": "https://github.com/filpoyma/react-native-cookies-manager"
   },
   "keywords": [
     "react native",
